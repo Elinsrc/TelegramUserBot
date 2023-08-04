@@ -1,0 +1,10 @@
+aiohttp==3.8.4
+asyncio_dgram==2.1.2
+openai==0.27.6
+py_tgcalls==0.9.7
+pydantic==1.10.7
+Pyrogram==2.0.106
+Requests==2.31.0
+wikipedia==1.4.0
+yamager==1.1.1
+yt_dlp==2023.3.4
